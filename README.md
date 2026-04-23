@@ -40,8 +40,11 @@ Interface totalmente básica (terminal).
 
 
 💻 Exemplo de uso
+
 Qual o valor? 5
+
 Escolha a opção que deseja: 1
+
 O resultado é: 500 cm
 
 
