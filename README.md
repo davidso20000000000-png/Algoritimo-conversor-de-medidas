@@ -34,14 +34,6 @@ Operações matemáticas simples
 
 
 
-⚠️ Limitações (importante)
-Só aceita números inteiros (int), o que é uma limitação ruim — conversões normalmente precisam de casas decimais.
-
-Não trata erros (se o usuário digitar texto, o programa quebra).
-
-Interface totalmente básica (terminal).
-
-
 💻 Exemplo de uso
 
 Qual o valor? 5
