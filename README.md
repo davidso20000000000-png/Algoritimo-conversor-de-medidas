@@ -7,8 +7,11 @@ Um algoritmo simples em Python que realiza conversões básicas entre unidades d
 O programa permite ao usuário converter valores entre:
 
 Metros → Centímetros
+
 Centímetros → Metros
+
 Quilômetros → Metros
+
 Metros → Quilômetros
 
 
